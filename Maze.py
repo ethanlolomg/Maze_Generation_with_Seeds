@@ -2,6 +2,7 @@ import pygame
 import random
 import time
 
+# Testing commit
 class Maze:
     def __init__(self, screen, sizeX=10, sizeY=10, seed = None):
         if seed is None:
